@@ -1,0 +1,43 @@
+h3{
+  font-family:  'Indie Flower', cursive;
+  font-weight: bold;
+  font-size: 2.0em;
+  text-align: center;
+}
+
+body{
+
+}
+
+table{
+  margin: auto;
+}
+
+#one{
+  background-color: #E63946;
+  padding: 200px 100px 200px 100px;
+  border-right: 10px solid white;
+}
+
+#two{
+  background-color: #F1FAEE;
+  padding: 200px 100px 200px 100px;
+  border-right: 10px solid white;
+}
+
+#three{
+  background-color: #A8DADC;
+  padding: 200px 100px 200px 100px;
+  border-right: 10px solid white;
+}
+
+#four{
+  background-color: #457B9D;
+  padding: 200px 100px 200px 100px;
+  border-right: 10px solid white;
+}
+
+#five{
+  background-color: #1D3557;
+  padding: 200px 100px 200px 100px;
+}
